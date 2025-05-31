@@ -11,6 +11,7 @@
   <b>Discord Stealer</b><br>
   <i>Simple Stealer written in Python</i>
 </p>
+
 ---
 
 # All Features:
