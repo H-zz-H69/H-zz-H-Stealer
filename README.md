@@ -1,7 +1,7 @@
 # ❤ H-zz-H Stealer ❤
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/d055d423-0d78-478d-844b-34a67ba56bfc)
+  ![Image](https://raw.githubusercontent.com/H-zz-H69/H-zz-H-Stealer/refs/heads/main/pictures/449554154-d055d423-0d78-478d-844b-34a67ba56bfc.png)
   <b>Discord Stealer</b>
   <i>Simple Stealer written in Python</i>
 </p>
