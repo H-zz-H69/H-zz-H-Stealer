@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/H-zz-H69/H-zz-H-Stealer/refs/heads/main/pictures/449554154-d055d423-0d78-478d-844b-34a67ba56bfc.png" alt="Image" />
+  <img src="https://raw.githubusercontent.com/H-zz-H69/H-zz-H-Stealer/refs/heads/main/pictures/pic.png" alt="Image" />
 </p>
 
 <p align="center">
